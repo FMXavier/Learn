@@ -1,2 +1,2 @@
-Teste 2.4 #boardid 104 #taskid 1520 #inprogress
+Teste 2.4 
 1520 #column "In Progress"
